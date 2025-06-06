@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.titulo{
+    text-align: center;
+    color: white;
+    background-color: red;
+}
+    nav ul li{
+        list-style: none;
+        position: relative;
+    }
+.imagen{
+    text-align: center;
+}
+
+.fondo{
+    background-color: gainsboro;
+    margin: 20px;
+    padding: 10px 50px;
+    text-align: justify;
+}
+footer ul li{
+    list-style: none;
+}
+.posicion{
+position: relative;
+left: 20px;
+}
+.tipografia{
+    font-family: "Share Tech", sans-serif;
+  font-weight: 400;
+}
